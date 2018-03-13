@@ -159,7 +159,7 @@ for(int i=9;i<10;i--)
         
       //ZADANIE 7
       
-      /*
+      /* 
         System.out.println("Wprowadz n:");
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
